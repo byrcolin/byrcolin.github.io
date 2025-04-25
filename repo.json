@@ -1,0 +1,15 @@
+{
+    "repo_name": "io.github.byrcolin",
+    "origin": "byrcolin.github.io",
+    "repo_uri": "https://byrcolin.github.io/repo.json",
+    "summary": "byrcolin's o3de objects.",
+    "additional_info": "Get more information about this repo at https://byrcolin.github.io",
+    "last_updated": "2025-04-25",
+    "engines": [],
+    "projects": [],
+    "gems": [],
+    "templates": [],
+    "repos": [
+        "https://byrcolin.github.io/byrcolin/repo.json"
+    ]
+}
